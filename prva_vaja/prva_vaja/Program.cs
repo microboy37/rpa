@@ -12,6 +12,7 @@ namespace prva_vaja
         {
             Console.WriteLine("xxx");
             Console.WriteLine("xxx2222");
+            Console.WriteLine("xxx222233333");
             Console.ReadLine();
         }
     }
