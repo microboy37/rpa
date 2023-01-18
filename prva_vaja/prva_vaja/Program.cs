@@ -11,6 +11,7 @@ namespace prva_vaja
         static void Main(string[] args)
         {
             Console.WriteLine("xxx");
+            Console.WriteLine("xxx2222");
             Console.ReadLine();
         }
     }
