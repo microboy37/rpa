@@ -1,0 +1,8 @@
+D:\rpa\prva_vaja\prva_vaja\bin\Debug\prva_vaja.exe.config
+D:\rpa\prva_vaja\prva_vaja\bin\Debug\prva_vaja.exe
+D:\rpa\prva_vaja\prva_vaja\bin\Debug\prva_vaja.pdb
+D:\rpa\prva_vaja\prva_vaja\obj\Debug\prva_vaja.csproj.AssemblyReference.cache
+D:\rpa\prva_vaja\prva_vaja\obj\Debug\prva_vaja.csproj.SuggestedBindingRedirects.cache
+D:\rpa\prva_vaja\prva_vaja\obj\Debug\prva_vaja.csproj.CoreCompileInputs.cache
+D:\rpa\prva_vaja\prva_vaja\obj\Debug\prva_vaja.exe
+D:\rpa\prva_vaja\prva_vaja\obj\Debug\prva_vaja.pdb
