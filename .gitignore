@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MVC_fimi/MVC_fimi/App_Data/MVC_fimiContext-20230119172507.mdf
